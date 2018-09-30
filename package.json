@@ -1,6 +1,6 @@
 {
   "name": "monocypher",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Bindings to https://monocypher.org/",
   "repository": "https://github.com/mengerhq/ocaml-monocypher",
   "license": "BSD-2-Clause",
