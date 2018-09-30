@@ -5,3 +5,4 @@ tmp
 \#*#
 *.install
 **/*.merlin
+node_modules
