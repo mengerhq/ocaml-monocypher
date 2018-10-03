@@ -1,11 +1,11 @@
 {
   "name": "monocypher",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Bindings to https://monocypher.org/",
   "repository": "https://github.com/mengerhq/ocaml-monocypher",
   "license": "BSD-2-Clause",
   "esy": {
-    "build": [["dune", "build"]]
+    "build": [["dune", "build", "@install"]]
   },
   "scripts": {
     "clean": "dune clean",
